@@ -1,4 +1,4 @@
 config:
-  info: hello hxm   path is springcloud-config/config-dev.yml  version:4
+  info: hello hxm   path is springcloud-config/config-dev.yml  version:5
 server:
   port: 3355
