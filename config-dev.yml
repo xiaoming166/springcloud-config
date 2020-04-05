@@ -1,2 +1,2 @@
 config:
-  info: hello hxm
+  info: hello hxm   path: springcloud-config/config-dev.yml  version:1
